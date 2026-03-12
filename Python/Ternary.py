@@ -1,0 +1,5 @@
+a=int(input("Enter first number"))
+print("Poitive"if a>0 else "Negative")
+#a=int(input("Enter first number"))
+#p=("Poitive"if a>0 else "Negative")
+#print(P)
